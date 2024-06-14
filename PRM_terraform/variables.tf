@@ -10,7 +10,7 @@ variable "access_key" {
   default = "AKIAVUTOEGVPUJ3ZPPZA"
 }
 variable "secret_key" {
-  default = "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"
+  default = "<SECRET_KEY>"
 }
 
 variable "testkeypair" {
